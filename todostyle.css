@@ -1,0 +1,31 @@
+.body{
+    text-decoration: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+
+}
+
+.list{
+    position: relative;
+    background-color: white;
+    list-style: none;
+}
+
+.list h2
+{
+    padding:10px 20px;
+    font-weight: 600;
+}
+.list ul{
+    padding: 20px;
+    position: relative;
+}
+
+.nav-list > span{
+margin: 10px;
+}
+
+
